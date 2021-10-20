@@ -1,0 +1,25 @@
+Unity version: 2019.4.22f1
+Project: Realidade Extendida igrejaAR 1.0
+Build date: 2021 out 19 22:24:40
+
+HTML5 build finished in 08m 55s
+
+index.html: 953B
+Build/igrejaAR_20211019_222440_wasm_release.data.unityweb: 13,548MB
+Build/igrejaAR_20211019_222440_wasm_release.json: 610B
+Build/igrejaAR_20211019_222440_wasm_release.wasm.code.unityweb: 23,728MB
+Build/igrejaAR_20211019_222440_wasm_release.wasm.framework.unityweb: 495,963KB
+Build/UnityLoader.js: 155,699KB
+TemplateData/favicon.ico: 12,964KB
+TemplateData/fullscreen.png: 345B
+TemplateData/progressEmpty.Dark.png: 155B
+TemplateData/progressEmpty.Light.png: 159B
+TemplateData/progressFull.Dark.png: 137B
+TemplateData/progressFull.Light.png: 142B
+TemplateData/progressLogo.Dark.png: 2,288KB
+TemplateData/progressLogo.Light.png: 2,206KB
+TemplateData/style.css: 1,629KB
+TemplateData/UnityProgress.js: 1,184KB
+TemplateData/webgl-logo.png: 3,503KB
+
+Total output size (Compression Disabled): 37,938MB

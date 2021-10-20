@@ -1,0 +1,16 @@
+{
+"companyName": "Realidade Extendida",
+"productName": "igrejaAR",
+"productVersion": "1.0",
+"dataUrl": "igrejaAR_20211019_222440_wasm_release.data.unityweb",
+"wasmCodeUrl": "igrejaAR_20211019_222440_wasm_release.wasm.code.unityweb",
+"wasmFrameworkUrl": "igrejaAR_20211019_222440_wasm_release.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
